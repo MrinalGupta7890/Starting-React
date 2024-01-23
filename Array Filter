@@ -1,1 +1,23 @@
+Problem statement
+Create a React app and utilize the ES6+ array iteration method to filter the even number from the array and render them.
+const numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
+
+Expected Output:
+ES6 Array Iteration Methods /*(for heading use h1 tag)*/
+0
+2
+4
+6
+8
+10
+
+
+Hint:
+Use the map and filter function to render the even numbers.
+
+Test Cases:
+The app should render the data correctly
+
+
+For the given array, 6 elements should be rendered on the screen using the h3 tag, and the rendered item should be even.
